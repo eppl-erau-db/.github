@@ -1,3 +1,3 @@
 # Engineering Physics Propulsion Lab
 
-We are the EPPL, based at the College of Arts and Sciences at Embry-Riddle Aeronautical University in Daytona Beach, Florida. We are an undergraduate research lab with various projects spanning robotics, control theory, propulsion, and embodied AI.
+We are the EPPL, based at the College of Arts and Sciences at Embry-Riddle Aeronautical University in Daytona Beach, Florida. We are a research lab with various projects spanning robotics, control theory, propulsion, and embodied AI.
